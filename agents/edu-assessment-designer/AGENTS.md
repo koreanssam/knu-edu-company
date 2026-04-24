@@ -2,10 +2,6 @@
 name: "Edu Assessment Designer"
 title: "Educational Assessment Designer"
 reportsTo: "ceo"
-capabilities:
-  - "assessment-item-design"
-  - "question-bank-management"
-  - "validity-verification"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

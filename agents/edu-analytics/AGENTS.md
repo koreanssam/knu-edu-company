@@ -2,10 +2,6 @@
 name: "Edu Learning Analytics"
 title: "Learning Data Scientist"
 reportsTo: "ceo"
-capabilities:
-  - "item-analysis-statistical"
-  - "student-grouping-clustering"
-  - "performance-reporting"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

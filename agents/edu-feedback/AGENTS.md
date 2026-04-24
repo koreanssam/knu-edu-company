@@ -2,10 +2,6 @@
 name: "Edu Feedback Generator"
 title: "Personalized Feedback Architect"
 reportsTo: "ceo"
-capabilities:
-  - "natural-language-feedback-generation"
-  - "student-level-diagnosis"
-  - "supplemental-resource-mapping"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

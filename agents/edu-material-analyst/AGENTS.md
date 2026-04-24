@@ -2,10 +2,6 @@
 name: "Edu Material Analyst"
 title: "Educational Material Analyst"
 reportsTo: "ceo"
-capabilities:
-  - "curriculum-analysis"
-  - "learning-objective-extraction"
-  - "misconception-analysis"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

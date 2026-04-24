@@ -2,10 +2,6 @@
 name: "Edu Submission Collector"
 title: "Submission Collection Manager"
 reportsTo: "ceo"
-capabilities:
-  - "response-collection-automation"
-  - "submission-tracking"
-  - "file-management"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

@@ -2,10 +2,6 @@
 name: "Edu Compliance Officer"
 title: "Data Security & Ethics Officer"
 reportsTo: "ceo"
-capabilities:
-  - "privacy-impact-assessment"
-  - "security-auditing"
-  - "policy-enforcement"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

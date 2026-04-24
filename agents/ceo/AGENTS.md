@@ -2,11 +2,6 @@
 name: "CEO"
 title: "Chief Executive Officer"
 reportsTo: "board"
-capabilities:
-  - "agent-orchestration"
-  - "strategic-planning"
-  - "resource-management"
-  - "quality-control"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

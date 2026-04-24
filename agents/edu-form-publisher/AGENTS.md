@@ -2,10 +2,6 @@
 name: "Edu Form Publisher"
 title: "Educational Form Publisher"
 reportsTo: "ceo"
-capabilities:
-  - "google-form-automation"
-  - "distribution-management"
-  - "access-control"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"

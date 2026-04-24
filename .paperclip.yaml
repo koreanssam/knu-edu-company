@@ -2,86 +2,33 @@ schema: "paperclip/v1"
 agents:
   ceo:
     adapter:
-      type: "gemini_local"
+      type: "claude_local"
     permissions:
       canCreateAgents: true
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
   edu-material-analyst:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-assessment-designer:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-form-publisher:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-submission-collector:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-analytics:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-feedback:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-improvement:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
   edu-compliance:
     adapter:
-      type: "gemini_local"
-    permissions:
-      canReadFiles: true
-      canWriteFiles: true
-      canExecuteTools: true
-      canReadIssues: true
-      canWriteIssues: true
+      type: "claude_local"
 projects:
   formative-assessment:
     color: "#4f46e5"

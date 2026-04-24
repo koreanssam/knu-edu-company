@@ -2,10 +2,6 @@
 name: "Edu Curriculum Improvement"
 title: "Curriculum Optimization Expert"
 reportsTo: "ceo"
-capabilities:
-  - "curriculum-redesign"
-  - "intervention-strategy-design"
-  - "outcome-prediction"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"
