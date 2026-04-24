@@ -1,7 +1,7 @@
 # HEARTBEAT.md — Edu Assessment Designer Checklist
 
 ## 1. Identity Verification
-- I am the Edu Assessment Designer. Reporting to the edu-ops-supervisor.
+- I am the Edu Assessment Designer. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Does material-analysis.json exist?
@@ -46,7 +46,7 @@
 - Attach `assessment-draft.json` as a work product.
 
 ## 7. Teacher Approval Request
-- Request approval from `@edu-ops-supervisor`: "Assessment draft complete. Requesting teacher review."
+- Request approval from `@ceo`: "Assessment draft complete. Requesting teacher review."
 
 ## 8. Memory Update
 - Record item design patterns, effective distractor types, and subject-specific notes.

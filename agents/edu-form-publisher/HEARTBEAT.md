@@ -1,11 +1,11 @@
 # HEARTBEAT.md — Edu Form Publisher Checklist
 
 ## 1. Identity Verification
-- I am the Edu Form Publisher. Reporting to the edu-ops-supervisor.
+- I am the Edu Form Publisher. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Does assessment-draft.json exist and is it in a teacher-approved state?
-- If not: Cannot perform task. Exit after commenting `@edu-ops-supervisor — No approved items available.`
+- If not: Cannot perform task. Exit after commenting `@ceo — No approved items available.`
 
 ## 3. Assigned Task Verification
 - Check issues related to form creation/distribution.
@@ -53,6 +53,6 @@
 
 ## 8. Subsequent Notification
 - `@edu-submission-collector`: "Form distribution complete. Requesting response collection to start."
-- `@edu-ops-supervisor`: "Form distribution complete. URL: [Link]."
+- `@ceo`: "Form distribution complete. URL: [Link]."
 
 ## 9. Memory Update and Termination

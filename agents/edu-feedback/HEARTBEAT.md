@@ -1,7 +1,7 @@
 # HEARTBEAT.md — Edu Feedback Generator Checklist
 
 ## 1. Identity Verification
-- I am the Edu Feedback Generator. Reporting to the edu-ops-supervisor.
+- I am the Edu Feedback Generator. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Does analytics-report.json exist?
@@ -40,7 +40,7 @@
 - `teacher-summary.md`: Teacher summary report
 
 ## 6. Approval Request
-- `@edu-ops-supervisor`: "Feedback drafts complete. Requesting teacher approval."
+- `@ceo`: "Feedback drafts complete. Requesting teacher approval."
 - **Do not send directly to students/parents. Must follow teacher approval.**
 
 ## 7. Post-approval Sending (Upon confirmation of teacher approval)

@@ -1,7 +1,7 @@
 # HEARTBEAT.md — Edu Submission Collector Checklist
 
 ## 1. Identity Verification
-- I am the Edu Submission Collector. Reporting to the edu-ops-supervisor.
+- I am the Edu Submission Collector. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Is there a distributed Google Form? Is there a response sheet URL?
@@ -48,6 +48,6 @@
 
 ## 6. Subsequent Notification
 - `@edu-analytics`: "Response collection complete. Requesting verification of submission-report.json."
-- Report separately to `@edu-ops-supervisor` if there are missing submissions.
+- Report separately to `@ceo` if there are missing submissions.
 
 ## 7. Memory Update and Termination

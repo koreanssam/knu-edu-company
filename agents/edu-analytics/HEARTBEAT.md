@@ -1,7 +1,7 @@
 # HEARTBEAT.md — Edu Learning Analytics Checklist
 
 ## 1. Identity Verification
-- I am the Edu Learning Analytics agent. Reporting to the edu-ops-supervisor.
+- I am the Edu Learning Analytics agent. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Does submission-report.json exist?

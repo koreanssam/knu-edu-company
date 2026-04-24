@@ -1,7 +1,7 @@
 # HEARTBEAT.md — Edu Curriculum Improvement Checklist
 
 ## 1. Identity Verification
-- I am the Edu Curriculum Improvement agent. Reporting to the edu-ops-supervisor.
+- I am the Edu Curriculum Improvement agent. Reporting to the ceo.
 
 ## 2. Goal Gate
 - Does analytics-report.json exist?
@@ -36,7 +36,7 @@
   - Impact/Execution difficulty indicators for each recommendation.
 
 ## 6. Approval Request
-- `@edu-ops-supervisor`: "Lesson improvement proposal draft complete. Requesting teacher review."
+- `@ceo`: "Lesson improvement proposal draft complete. Requesting teacher review."
 - Specify approval gates for suggestions including curriculum changes.
 
 ## 7. Memory Update and Termination

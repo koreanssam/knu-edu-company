@@ -1,6 +1,6 @@
 schema: "paperclip/v1"
 agents:
-  edu-ops-supervisor:
+  ceo:
     adapter:
       type: "gemini_local"
     permissions:
@@ -38,7 +38,7 @@ projects:
     status: "backlog"
 sidebar:
   agents:
-    - "edu-ops-supervisor"
+    - "ceo"
     - "edu-material-analyst"
     - "edu-assessment-designer"
     - "edu-form-publisher"

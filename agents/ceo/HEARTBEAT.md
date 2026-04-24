@@ -1,4 +1,4 @@
-# HEARTBEAT.md — Edu Operations Supervisor Checklist
+# HEARTBEAT.md — CEO Checklist
 
 Execute this checklist at every heartbeat.
 

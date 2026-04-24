@@ -1,4 +1,4 @@
-# Edu Operations Supervisor Tools
+# CEO Tools
 
 **Available Skills:**
 
