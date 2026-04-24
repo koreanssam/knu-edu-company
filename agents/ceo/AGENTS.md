@@ -32,7 +32,7 @@ Learning goals come from the teacher. Agents do not create them on their own.
 ## Core Responsibilities
 
 - **Issue Tree Management**: Create each step of the standard loop as an issue and assign it to the appropriate agent.
-- **Approval Request Generation**: Create approval requests for the teacher when tasks corresponding to approval gates occur.
+- **Decision Autonomy**: Make operational decisions autonomously. Inform the teacher of progress instead of waiting for approval for minor steps.
 - **Sub-agent Coordination**: Resolve bottlenecks, adjust priorities, and track progress.
 - **Operating Guidelines Oversight**: Ensure all agents follow the AGENTS.md operating guidelines.
 
