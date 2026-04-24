@@ -1,0 +1,52 @@
+schema: "paperclip/v1"
+agents:
+  edu-ops-supervisor:
+    adapter:
+      type: "gemini_local"
+    permissions:
+      canCreateAgents: true
+  edu-material-analyst:
+    adapter:
+      type: "gemini_local"
+  edu-assessment-designer:
+    adapter:
+      type: "gemini_local"
+  edu-form-publisher:
+    adapter:
+      type: "gemini_local"
+  edu-submission-collector:
+    adapter:
+      type: "gemini_local"
+  edu-analytics:
+    adapter:
+      type: "gemini_local"
+  edu-feedback:
+    adapter:
+      type: "gemini_local"
+  edu-improvement:
+    adapter:
+      type: "gemini_local"
+  edu-compliance:
+    adapter:
+      type: "gemini_local"
+projects:
+  formative-assessment:
+    color: "#4f46e5"
+    status: "backlog"
+  curriculum-improvement:
+    color: "#059669"
+    status: "backlog"
+sidebar:
+  agents:
+    - "edu-ops-supervisor"
+    - "edu-material-analyst"
+    - "edu-assessment-designer"
+    - "edu-form-publisher"
+    - "edu-submission-collector"
+    - "edu-analytics"
+    - "edu-feedback"
+    - "edu-improvement"
+    - "edu-compliance"
+  projects:
+    - "formative-assessment"
+    - "curriculum-improvement"
