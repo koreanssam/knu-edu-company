@@ -6,7 +6,7 @@
 - **edu-shared** — Personal information rules, security policies.
 
 ## Key Reference Files
-- `/AGENTS.md` — Operating Guidelines (Prohibitions, Approval Gates, Data Rules).
+- `/AGENTS.md` — Operating Guidelines (Prohibitions, notification steps, Data Rules).
 - `$AGENT_HOME/audit-log/` — Audit log directory.
 
 ## Inspection Targets

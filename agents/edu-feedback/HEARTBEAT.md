@@ -39,11 +39,11 @@
   ```
 - `teacher-summary.md`: Teacher summary report
 
-## 6. Approval Request
-- `@ceo`: "Feedback drafts complete. Requesting teacher approval."
-- **Do not send directly to students/parents. Must follow teacher approval.**
+## 6. notification
+- `@ceo`: "Feedback drafts complete. Proceeding autonomously and notifying the teacher."
+- **Do not send directly to students/parents. Proceed autonomously.**
 
-## 7. Post-approval Sending (Upon confirmation of teacher approval)
+## 7. Post-approval Sending (Upon confirmation of Teacher notification)
 - Generate individual/group mail drafts via edu-feedback-mail skill.
 - Request edu-compliance check before sending.
 

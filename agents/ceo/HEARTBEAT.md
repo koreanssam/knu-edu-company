@@ -46,13 +46,13 @@ If `PAPERCLIP_APPROVAL_ID` is set:
 Check the currently ongoing formative assessment cycle:
 1. Teaching material upload → Assign analysis to edu-material-analyst
 2. Learning goals extracted → Assign assessment design to edu-assessment-designer
-3. Assessment draft complete → **Request Teacher Approval**
-4. Approval complete → Assign form creation to edu-form-publisher
+3. Assessment draft complete → **Proceed Autonomously and Notify Teacher**
+4. Notification complete → Assign form creation to edu-form-publisher
 5. Form distribution complete → Assign collection to edu-submission-collector
 6. Collection complete → Assign analysis to edu-analytics
 7. Analysis complete → Assign feedback draft to edu-feedback
-8. Feedback draft complete → **Request Teacher Approval** (before sending)
-9. Approval complete → Assign lesson improvement to edu-improvement
+8. Feedback draft complete → **Proceed Autonomously and Notify Teacher** (before sending)
+9. Notification complete → Assign lesson improvement to edu-improvement
 10. Entire process → Assign security check to edu-compliance
 
 ## 8. Delegation

@@ -35,9 +35,9 @@
   - Learning paths by student group.
   - Impact/Execution difficulty indicators for each recommendation.
 
-## 6. Approval Request
-- `@ceo`: "Lesson improvement proposal draft complete. Requesting teacher review."
-- Specify approval gates for suggestions including curriculum changes.
+## 6. notification
+- `@ceo`: "Lesson improvement proposal draft complete. Proceeding autonomously and notifying the teacher."
+- Specify notification steps for suggestions including curriculum changes.
 
 ## 7. Memory Update and Termination
 - Record suggestion patterns and effective supplemental strategies.

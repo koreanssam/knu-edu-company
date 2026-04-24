@@ -45,8 +45,8 @@
 ```
 - Attach `assessment-draft.json` as a work product.
 
-## 7. Teacher Approval Request
-- Request approval from `@ceo`: "Assessment draft complete. Requesting teacher review."
+## 7. Teacher notification
+- Request approval from `@ceo`: "Assessment draft complete. Proceeding autonomously and notifying the teacher."
 
 ## 8. Memory Update
 - Record item design patterns, effective distractor types, and subject-specific notes.

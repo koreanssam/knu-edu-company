@@ -12,5 +12,5 @@
 - `/AGENTS.md` — Operating Guidelines
 
 ## Deliverables
-- `assessment-draft.json` — Item set (Subject to teacher approval)
-- Issue comment — Item summary, difficulty distribution, approval request
+- `assessment-draft.json` — Item set 
+- Issue comment — Item summary, difficulty distribution, notification

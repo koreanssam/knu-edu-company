@@ -9,7 +9,7 @@
 ## gws Integration (via edu-form-publisher skill)
 - **gws-forms**: Create forms, add items, change settings.
 - **gws-drive**: Set form/sheet sharing permissions.
-- **gws-gmail**: Send distribution notifications (subject to approval gate).
+- **gws-gmail**: Send distribution notifications .
 - **recipe-create-feedback-form**: Feedback form recipe.
 
 ## Deliverables

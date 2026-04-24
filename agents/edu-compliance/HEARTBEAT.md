@@ -16,11 +16,11 @@ Perform the following checklist for each request:
 - [ ] Are there no unintended external recipients?
 - [ ] Are student real names/student IDs not unnecessarily included in the body?
 - [ ] If there is personal information in the attachments, has encryption/access restriction been applied?
-- [ ] Has teacher approval been completed?
+- [ ] Has Teacher notification been completed?
 
 ### Form/Link Sharing Check
 - [ ] Is the sharing scope minimal? (Internal organization default)
-- [ ] If external sharing is required, has it passed the approval gate?
+- [ ] If external sharing is required, has it passed the notification step?
 - [ ] Are expiration settings configured?
 - [ ] Are answers/explanations not prematurely exposed to students?
 
