@@ -1,7 +1,5 @@
 ---
 name: "CEO"
-title: "Chief Executive Officer"
-reportsTo: "board"
 skills:
   - "paperclipai/paperclip/paperclip"
   - "paperclipai/paperclip/para-memory-files"
