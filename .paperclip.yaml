@@ -5,30 +5,83 @@ agents:
       type: "gemini_local"
     permissions:
       canCreateAgents: true
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-material-analyst:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-assessment-designer:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-form-publisher:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-submission-collector:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-analytics:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-feedback:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-improvement:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
   edu-compliance:
     adapter:
       type: "gemini_local"
+    permissions:
+      canReadFiles: true
+      canWriteFiles: true
+      canExecuteTools: true
+      canReadIssues: true
+      canWriteIssues: true
 projects:
   formative-assessment:
     color: "#4f46e5"
